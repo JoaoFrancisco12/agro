@@ -1,0 +1,4 @@
+body{background: rgb(42,127,140);
+    background: linear-gradient(90deg, rgba(42,127,140,1) 0%, rgba(45,193,20,1) 45%, rgba(191,255,0,1) 100%);}
+.campo{height: 400px;
+width: 500px;}    
